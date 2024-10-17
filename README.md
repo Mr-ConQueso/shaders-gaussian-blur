@@ -1,4 +1,4 @@
-# Gaussian Blur Post Process in Unity 2021 URP
+# Gaussian Blur Post Process in Unity 2022 URP
 
 A Gaussian blur post processing effect made with Renderer Features for Unity URP.
 
@@ -10,7 +10,7 @@ Gaussian Blur is a useful effect to keep in your arsenal when making games, but 
 
 ## Software
 
-This project was created using Unity 2021.3.0f1 (LTS) and URP 12.1.6.
+This project is updated to Unity 2022.3.44f1 (LTS) and URP 14.0.11.
 
 ## Tutorials
 
@@ -21,8 +21,8 @@ This project is part of a tutorial which is available in the following places:
 
 ## Authors
 
-This project and the corresponding tutorials were created by Daniel Ilett.
+This project and the corresponding tutorials were created by Daniel Ilett and now updated by MrConQueso.
 
 ## Release
 
-This project was released on June 1st 2023.
+This project was released on June 1st 2023, and updated as of October 17th 2024.
